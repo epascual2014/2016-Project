@@ -15,6 +15,7 @@
 		616952AD1C727B9A008988C8 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 616952AB1C727B9A008988C8 /* LaunchScreen.xib */; };
 		616952B91C727B9A008988C8 /* Run_With_MeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 616952B81C727B9A008988C8 /* Run_With_MeTests.swift */; };
 		616952C51C727BB7008988C8 /* SWRevealViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 616952C41C727BB7008988C8 /* SWRevealViewController.m */; };
+		616952C71C727E7D008988C8 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 616952C61C727E7D008988C8 /* MainViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,6 +43,7 @@
 		616952C21C727BB7008988C8 /* Run With Me-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Run With Me-Bridging-Header.h"; sourceTree = "<group>"; };
 		616952C31C727BB7008988C8 /* SWRevealViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SWRevealViewController.h; sourceTree = "<group>"; };
 		616952C41C727BB7008988C8 /* SWRevealViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SWRevealViewController.m; sourceTree = "<group>"; };
+		616952C61C727E7D008988C8 /* MainViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				6169529F1C727B9A008988C8 /* AppDelegate.swift */,
 				616952A41C727B9A008988C8 /* ViewController.swift */,
 				616952A61C727B9A008988C8 /* Main.storyboard */,
+				616952C61C727E7D008988C8 /* MainViewController.swift */,
 				616952A91C727B9A008988C8 /* Images.xcassets */,
 				616952AB1C727B9A008988C8 /* LaunchScreen.xib */,
 				616952A11C727B9A008988C8 /* Run_With_Me.xcdatamodeld */,
@@ -226,6 +229,7 @@
 				616952A01C727B9A008988C8 /* AppDelegate.swift in Sources */,
 				616952A31C727B9A008988C8 /* Run_With_Me.xcdatamodeld in Sources */,
 				616952C51C727BB7008988C8 /* SWRevealViewController.m in Sources */,
+				616952C71C727E7D008988C8 /* MainViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
